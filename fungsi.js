@@ -13,3 +13,7 @@ console.log(divide(8, 2));
 const divide = (a, b) => a / b;
 console.log(divide(8, 2));
 
+console.log(add(5, 5));
+
+console.log(add(5, 5));
+
