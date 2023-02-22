@@ -9,3 +9,7 @@ console.log(multiply(2, 2));
 
 const divide = (a, b) => a / b;
 console.log(divide(8, 2));
+
+const divide = (a, b) => a / b;
+console.log(divide(8, 2));
+
